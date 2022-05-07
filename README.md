@@ -1,4 +1,4 @@
-<h1 class="percent" >Olá, eu sou o Aden!</h1>
+<h1 class="percent" >Olá, me chamo Aden!</h1>
 
 - ✍ Atualmente sou acadêmico de Ciência da Computação
 - 🚀 Estagiário full stack do departamento de sistemas no Tribunal de Justiça do Estado de Rondônia 
