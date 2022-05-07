@@ -29,11 +29,12 @@
   
   ##
   
-  ### Se quiserem trocar umas ideias<p> ou apenas dialogar sobre alguns filmes e séries só me chamarem aí! 
+  ### Se você quiser trocar umas ideias ou apenas dialogar sobre alguns filmes e séries só me chamar aí! 😉
   <div> 
-  <a href="https://instagram.com/adenhercules" target="_blank"><img width="40px" src="https://img.icons8.com/clouds/344/instagram.png" target="_blank"></a> 
-  <a href = "mailto:adenhercules07@gmail.com"><img width="40px" src="https://img.icons8.com/doodle/344/gmail-new.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adenhercules" target="_blank"><img width="40px" src="https://img.icons8.com/clouds/344/linkedin.png"></a> 
-    
+  <a href="https://instagram.com/adenhercules" target="_blank"> <img width="55px" src="https://img.icons8.com/clouds/344/instagram.png" target="_blank"></a> 
+  <a href = "mailto:adenhercules07@gmail.com"> <img width="55px" src="https://img.icons8.com/clouds/344/gmail-new.png"></a>
+  <a href="https://www.linkedin.com/in/adenhercules" target="_blank"> <img width="55px" src="https://img.icons8.com/clouds/344/linkedin.png"></a> 
+  
+  ##
    ![Snake animation](https://github.com/adenhercules/adenhercules/blob/output/github-contribution-grid-snake.svg)
   </div>
