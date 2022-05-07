@@ -28,15 +28,18 @@
 </div>
   
   ##
-  <div display="inline-block">
-  <p align="left">Atualmente faço parte do time CEJUSC no <a href="https://www.tjro.jus.br/">TJRO</a>;</p>
-  </div>
+  </br>
+  Atualmente sou da Nucint - Núcleo de Inteligência de Negócio e faço parte do time CEJUSC no TJRO 😊
+   <br>
+    
   ### Se você quiser trocar umas ideias ou apenas dialogar sobre alguns filmes e séries só me chamar aí! 😉
   <div> 
-  <a href="https://instagram.com/adenhercules" target="_blank"> <img width="55px" src="https://img.icons8.com/clouds/344/instagram.png" target="_blank"></a> 
-  <a href = "mailto:adenhercules07@gmail.com"> <img width="55px" src="https://img.icons8.com/clouds/344/gmail-new.png"></a>
-  <a href="https://www.linkedin.com/in/adenhercules" target="_blank"> <img width="55px" src="https://img.icons8.com/clouds/344/linkedin.png"></a> 
+    <a href="https://instagram.com/adenhercules" target="_blank"> <img width="55px" src="https://img.icons8.com/clouds/344/instagram.png" target="_blank"></a> 
+    <a href = "mailto:adenhercules07@gmail.com"> <img width="55px" src="https://img.icons8.com/clouds/344/gmail-new.png"></a>
+    <a href="https://www.linkedin.com/in/adenhercules" target="_blank"> <img width="55px" src="https://img.icons8.com/clouds/344/linkedin.png"></a> 
+  </div>
   
   ##
-   ![Snake animation](https://github.com/adenhercules/adenhercules/blob/output/github-contribution-grid-snake.svg)
-  </div>
+      
+ ![Snake animation](https://github.com/adenhercules/adenhercules/blob/output/github-contribution-grid-snake.svg)
+  
