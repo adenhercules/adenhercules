@@ -1,6 +1,6 @@
 <h1 class="percent" >Olá, me chamo Aden!</h1>
 
-- ✍ Atualmente sou acadêmico de Ciência da Computação
+- ✍ Sou acadêmico de Ciência da Computação
 - 🚀 Estagiário full stack do departamento de sistemas no Tribunal de Justiça do Estado de Rondônia 
 - 📝 Estudando React voltado ao Expo e dia após dia aprendendo TypeScript
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adenhercules" alt="AdenHercules" /> </p>
@@ -28,7 +28,9 @@
 </div>
   
   ##
-  
+  <div display="inline-block">
+  <p align="left">Atualmente faço parte do time CEJUSC no <a href="https://www.tjro.jus.br/">TJRO</a>;</p>
+  </div>
   ### Se você quiser trocar umas ideias ou apenas dialogar sobre alguns filmes e séries só me chamar aí! 😉
   <div> 
   <a href="https://instagram.com/adenhercules" target="_blank"> <img width="55px" src="https://img.icons8.com/clouds/344/instagram.png" target="_blank"></a> 
