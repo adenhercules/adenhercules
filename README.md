@@ -29,10 +29,11 @@
   
   ##
   
+  ### Se quiserem trocar umas ideias<p> ou apenas dialogar sobre alguns filmes e séries só me chamarem aí! 
   <div> 
-  <a href="https://instagram.com/adenhercules" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:adenhercules07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adenhercules" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/adenhercules" target="_blank"><img width="40px" src="https://img.icons8.com/clouds/344/instagram.png" target="_blank"></a> 
+  <a href = "mailto:adenhercules07@gmail.com"><img width="40px" src="https://img.icons8.com/doodle/344/gmail-new.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adenhercules" target="_blank"><img width="40px" src="https://img.icons8.com/clouds/344/linkedin.png"></a> 
     
    ![Snake animation](https://github.com/adenhercules/adenhercules/blob/output/github-contribution-grid-snake.svg)
   </div>
