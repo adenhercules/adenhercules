@@ -4,7 +4,7 @@
 - 🚀 Estagiário full stack do departamento de sistemas no Tribunal de Justiça do Estado de Rondônia 
 - 📝 Estudando React voltado ao Expo
 <br>
-<div align="center">
+<div align="center" style="margin: 0 10px">
   <a href="https://github.com/adenhercules">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=adenhercules&show_icons=true&theme=bear&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenhercules&layout=compact&langs_count=7&theme=bear"/>
