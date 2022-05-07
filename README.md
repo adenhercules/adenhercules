@@ -3,6 +3,7 @@
 - ✍ Atualmente sou acadêmico de Ciência da Computação
 - 🚀 Estagiário full stack do departamento de sistemas no Tribunal de Justiça do Estado de Rondônia 
 - 📝 Estudando React voltado ao Expo
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adenhercules" alt="AdenHercules" /> </p>
 <br>
 <div align="center" style="margin: 0 10px">
   <a href="https://github.com/adenhercules">
