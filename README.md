@@ -29,8 +29,9 @@
 </div>
   
   ##
-  </br>
-  Atualmente sou da Nucint - Núcleo de Inteligência de Negócio e faço parte do time CEJUSC no TJRO 😊
+  
+  ### Atualmente sou da Nucint - Núcleo de Inteligência de Negócio e faço parte do time CEJUSC no TJRO 😊
+  - Usamos SCRUM como metologia ágil nos projetos, bem como integração com o GitLab.
    <br>
     
   ### Se você quiser trocar umas ideias ou apenas dialogar sobre alguns filmes e séries só me chamar aí! 😉
