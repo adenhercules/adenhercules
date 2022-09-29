@@ -7,8 +7,8 @@
 <br>
 <div align="center">
 <a href="https://github.com/adenhercules">
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=adenhercules&show_icons=true&theme=bear&include_all_commits=true&count_private=true&custom_title=Estatísticas"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenhercules&layout=compact&langs_count=7&theme=bear&hide_rank=true&custom_title=Linguagens&layout=compact=true"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api?username=adenhercules&show_icons=true&theme=bear&include_all_commits=true&count_private=true&custom_title=Estatísticas&layout=compact=true"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenhercules&layout=compact&langs_count=7&theme=bear&hide_rank=true&custom_title=Linguagens&layout=compact=true"/>
 
 </div>
   
@@ -17,8 +17,9 @@
 <div style="display: inline_block"><br>
   
 <code><img align="center" alt="aden-Ts" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript"/></code>
-<code><img align="center" alt="aden-React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" tittle="React"/></code>
 <code><img align="center" alt="aden-HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"/></code>
+<code><img align="center" alt="aden-HTML" width="40px" src="https://icones.pro/wp-content/uploads/2022/07/icone-angulaire-originale-logo.png" title="HTML"/>
+</code>
 <code><img align="center" alt="aden-CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"/></code>
 <code><img align="center" alt="aden-Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/></code>
 <code><img align="center" alt="aden-c" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/></code>
