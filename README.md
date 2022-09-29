@@ -3,7 +3,7 @@
 - ✍ Sou acadêmico de Ciência da Computação
 - 🚀 Estagiário full stack do departamento de sistemas no Tribunal de Justiça do Estado de Rondônia 
 - 📝 Estudando Django
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adenhercules&hide=contribs,prs" alt="AdenHercules" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adenhercules" alt="AdenHercules" /> </p>
 <br>
 <div align="center">
 <a href="https://github.com/adenhercules">
