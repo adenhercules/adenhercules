@@ -35,7 +35,6 @@
   - Usamos SCRUM como metologia ágil nos projetos, bem como integração com o GitLab.
    <br>
     
-  ### Se você quiser trocar umas ideias ou apenas dialogar sobre alguns filmes e séries só me chamar aí! 😉
   <div> 
     <a href="https://instagram.com/adenhercules" target="_blank"> <img width="55px" src="https://img.icons8.com/clouds/344/instagram.png" target="_blank"></a> 
     <a href = "mailto:adenhercules07@gmail.com"> <img width="55px" src="https://img.icons8.com/clouds/344/gmail-new.png"></a>
