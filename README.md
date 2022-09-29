@@ -3,11 +3,11 @@
 - ✍ Sou acadêmico de Ciência da Computação
 - 🚀 Estagiário full stack do departamento de sistemas no Tribunal de Justiça do Estado de Rondônia 
 - 📝 Estudando Django
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adenhercules" alt="AdenHercules" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adenhercules&hide=contribs,prs" alt="AdenHercules" /> </p>
 <br>
 <div align="center">
 <a href="https://github.com/adenhercules">
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=adenhercules&show_icons=true&theme=bear&include_all_commits=true&count_private=true&hide=stars,commits,prs,issues,contribs"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=adenhercules&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
 <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenhercules&layout=compact&langs_count=7&theme=bear"/>
 
 </div>
