@@ -19,8 +19,3 @@
 <code><img align="center" alt="aden-gitlab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab"/></code>
 
 </div>
-  
-  ##
-  
-  ### Atualmente faço parte do time TJRO na SONDA.
-  > Usamos SCRUM como metologia ágil nos projetos, bem como integração com o GitLab.
