@@ -1,9 +1,7 @@
 <h1 class="percent" >Olá, me chamo Aden! <img src="https://komarev.com/ghpvc/?username=adenhercules" alt="AdenHercules" /> </h1>
 <br>
 
-> Acadêmico concluínte de Ciência da Computação.
-> 
-> Desenvolvedor de Software na SONDA.
+> Desenvolvedor de Software na SONDA S.A.
   
 ## Hard Skills: 
   
