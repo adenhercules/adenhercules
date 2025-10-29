@@ -1,7 +1,7 @@
 <h1 class="percent" >Olá, me chamo Aden! <img src="https://komarev.com/ghpvc/?username=adenhercules" alt="AdenHercules" /> </h1>
 <br>
 
-> Desenvolvedor de Software na SONDA S.A.
+> Desenvolvedor de Software na Fóton Informática S.A
   
 ## Hard Skills: 
   
